@@ -12,7 +12,10 @@ Main libraries to run the STT are portaudio and pyaudio (install in the same ord
 
       sudo apt-get install portaudio19-dev python-all-dev python3-all-dev && pip3 install pyaudio //Python 3 is preferred
 
-espeak --> sudo apt-get install espeak
+Espeak The TTS engine 
+
+      sudo apt-get install espeak
+      
 Install this for the entire SpeechRecognition Suite
       
       pip3 install SpeechRecognition
