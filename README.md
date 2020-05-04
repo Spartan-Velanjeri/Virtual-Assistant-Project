@@ -47,7 +47,9 @@ In order to run the program with your face to be recognised
 
 3. Next is to Run the Train_model.py to train the SVC model for your respective dataset. The command to run is again present in the code itself.
 
-4. Finally run the Main.py to run the Virtual Assistant which now has the capability to recognise the face used in the dataset. Also make sure to tweak the program to add your own customization.
+4. Finally run the Main.py to run the Virtual Assistant which now has the capability to recognise the face used in the dataset. Also make sure to tweak the program to add your own customization. 
+
+The way this program works is that, you have to position your face to the webcam and hit esc button to take your picture. We are working on making it a real stream rather than taking a picture of the frame.
 
 Remember the possibilites of Vision + Voice Assistant is immense!
 
