@@ -35,3 +35,22 @@ https://static.houndify.com/sdks/python/2.0.0/houndify_python3_sdk_2.0.0.tar.gz
 https://docs.houndify.com/sdks/docs/python
 
 We plan to try out different STT (preferably offine ones) and benchmark them.
+
+//////////////////////////////////////////////////////////////////////////////////
+
+Face Recognition Included now!
+In order to run the program with your face to be recognised
+
+1. In the Dataset Folder, replace the folder with my name, into your name and your photos. Remember the more the pictures, the better would be the accuracy. Also add more unknown faces, so as to further improve accuracy.
+
+2. Next step is to Run the extract_embeddings.py file. The command to run is present in the python code itself. Check the arguments used along with the python file while running the code. 
+
+3. Next is to Run the Train_model.py to train the SVC model for your respective dataset. The command to run is again present in the code itself.
+
+4. Finally run the Main.py to run the Virtual Assistant which now has the capability to recognise the face used in the dataset. Also make sure to tweak the program to add your own customization.
+
+Remember the possibilites of Vision + Voice Assistant is immense!
+
+Finally I would like to thank you Dr Adrian Rosebrock for the wonderful tutorial and help regarding the face recognition model. Do check out his website (pyimagesearch.com)
+
+Keep Hacking!!
