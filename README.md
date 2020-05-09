@@ -41,6 +41,15 @@ We plan to try out different STT (preferably offine ones) and benchmark them.
 Face Recognition Included now!
 In order to run the program with your face to be recognised
 
+Install main libraries first
+1. Install imutils      
+
+            pip install imutils
+
+2. Install openCV
+
+            pip install opencv-contrib-python
+
 1. In the Dataset Folder, replace the folder with my name, into your name and your photos. Remember the more the pictures, the better would be the accuracy. Also add more unknown faces, so as to further improve accuracy.
 
 2. Next step is to Run the extract_embeddings.py file. The command to run is present in the python code itself. Check the arguments used along with the python file while running the code. 
