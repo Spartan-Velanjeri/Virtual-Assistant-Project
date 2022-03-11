@@ -1,4 +1,7 @@
 # Virtual-Assistant-Project
+##############
+Paused Progress for now
+################
 This repo is the birth of a new Virtual Assistant. Work under progress
 
 Currently running with Houndify as the primary STT and Espeak as the primary TTS. Can now play music (Preferably Back in Black by AC/DC)
